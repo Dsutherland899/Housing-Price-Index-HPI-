@@ -20,6 +20,7 @@ The dataset contains many differnet items, which can be grouped into the followi
 * SalesVolume: The total number of completed property sales in that month.
 
 **Property Type Columns**
+ 
  The dataset tracks four main building types. For Detached, SemiDetached, Terraced, and Flat, you have:
 
 * {Type}Price: The average price for that specific house type.
