@@ -12,12 +12,12 @@ The dataset contains many differnet items, which can be grouped into the followi
 * AreaCode: The official ONS (Office for National Statistics) code for that specific region.
 
   **General Market Metrics**
-  * AveragePrice: The average price of all residential properties sold in that area during that month.
-  * Index: A number representing the relative price change compared to a "base period" (usually January 2015 = 100).
-  * IndexSA / AveragePriceSA: "SA" stands for Seasonally Adjusted. This removes predictable seasonal patterns (like the market slowing down in December) to show the underlying trend.
-  * 1m%Change: The percentage change in the average price compared to the previous month.
-  * 12m%Change: The percentage change in the average price compared to the same month last year (annual inflation).
-  * SalesVolume: The total number of completed property sales in that month.
+* AveragePrice: The average price of all residential properties sold in that area during that month.
+* Index: A number representing the relative price change compared to a "base period" (usually January 2015 = 100).
+* IndexSA / AveragePriceSA: "SA" stands for Seasonally Adjusted. This removes predictable seasonal patterns (like the market slowing down in December) to show the underlying trend.
+* 1m%Change: The percentage change in the average price compared to the previous month.
+* 12m%Change: The percentage change in the average price compared to the same month last year (annual inflation).
+* SalesVolume: The total number of completed property sales in that month.
 
  **Property Type Columns**
  The dataset tracks four main building types. For Detached, SemiDetached, Terraced, and Flat, you have:
